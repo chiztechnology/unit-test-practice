@@ -14,4 +14,7 @@ const divide =(a,b)=>{
   return a/b;
 }
 
-module.exports = add, subs, multiply, divide;
+exports.add = add;
+exports.subs = subs;
+exports.multiply = multiply;
+exports.divide = divide;
