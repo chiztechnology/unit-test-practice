@@ -1,0 +1,23 @@
+{
+  "name": "unit-test-practice",
+  "version": "1.0.0",
+  "description": "this repository is designed to perform some unit tests as integral part of development cycle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiztechnology/unit-test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiztechnology/unit-test-practice/issues"
+  },
+  "homepage": "https://github.com/chiztechnology/unit-test-practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
